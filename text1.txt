@@ -1,0 +1,3 @@
+
+hello git user  , git add text1.txt or git stage text1.txt to stage the files
+
